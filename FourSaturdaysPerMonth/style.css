@@ -1,0 +1,137 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    margin-left: 163px;
+    margin-top: -23px;
+    position: absolute;
+    border-radius: 20px;
+    background-color: black;
+    width: 100px;
+    padding: 10px 20px;
+    color: white;
+}
+
+.title04 {
+    margin-left: 1349px;
+}
+
+.title03 {
+    margin-left: 954px;
+}
+
+.title02 {
+    margin-left: 558px;
+}
+
+h1 {
+    font-family: 'Passion One', cursive;
+    font-size: 70px;
+    text-align: center;
+    padding-bottom: 12px;
+    margin-left: 50px;
+    padding-top: 10px;
+
+}
+
+div > h3 {
+    margin: auto;
+    font-family: 'Amatic SC', cursive;
+    font-size: 22px;
+    padding-left: 15px;
+    padding-top: 4px;
+    padding-bottom: 3px;
+    border-radius: 10px;
+    text-align: center;
+    width: 60px;
+    color: white;
+    background-color: black;
+    margin-left: 10px;
+    text-align: justify;
+    margin-bottom: -33px;
+    margin-top: 12px;
+ 
+}
+
+strong {
+    margin-left: 15px;
+   padding-left: 5px;
+   font-size: 30px;
+}
+
+.primeirost {
+    margin-left: 48px;
+    padding-top: 0px;
+}
+
+ /* Configuração do corpo */
+.divinicial {
+    padding-top: 50px;
+    text-align: justify;
+    border-radius: 30px;
+    border: 5px solid black;
+    margin-left: 50px;
+    background-color: white;
+    width: 350px;
+    height: 600px;
+}
+
+.segundadiv {
+    padding-top: 50px;
+    text-align: justify;
+    border-radius: 30px;
+    border: 5px solid black;
+    margin-left: 50px;
+    background-color: white;
+    margin-left: 446px;
+    margin-top: -677px;
+    width: 350px;
+    height: 600px;
+}
+
+.terceiradiv {
+    padding-top: 50px;
+    text-align: justify;
+    border-radius: 30px;
+    border: 5px solid black;
+    margin-left: 50px;
+    background-color: white;
+    margin-left: 841px;
+    margin-top: -657px;
+    width: 350px;
+    height: 600px;
+}
+
+.ultima {
+    padding-top: 50px;
+    text-align: justify;
+    border-radius: 30px;
+    border: 5px solid black;
+    margin-left: 50px;
+    background-color: white;
+    margin-left: 1238px;
+    margin-top: -657px;
+    width: 350px;
+    height: 600px;
+}
+
+.arrumar {
+    background-color: white;
+    margin-left: 1638px;
+    margin-top: -599px;
+    width: 10px;
+    height: 600px;
+}
+
+
+
+
+
